@@ -1,16 +1,133 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-<!--
-**chandenyamaguchi-svg/chandenyamaguchi-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+   
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penny Juice - Juice Concentrate, Natural Ingredients, and Childcare Center</title>
+    <meta name="Keywords" content="Bettendorf, Iowa, Healthy Lifestyle, Preschool, Juices, Juice">
+    <meta name="author" content="Chanden Yamaguchi">
+    <link rel="stylesheet" type="text/css" href="../CSS/mystyle.css">
+</head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--header stuff-->
+<body>
+      
+    <div id="container">
+       
+        <div class="header">
+            <div class="logohead">
+            
+            <img src="final-logo.png" alt= "logo" width="474px" height="102px" style="margin-top: 15px;">
+               <h2>
+                it makes cents
+            </h2>
+            </div>
+            <div class ="flexhead">
+            <a href="../HTML/cart.html">
+            <img src="shopping-cart-optimized.png" width="100px" height="90px">
+            </a>
+            </div>
+            
+      
+            
+            
+            
+        </div>    
+       
+        
+        <div class="content">
+        </div>
+            <div class="topnav">
+                <ul id="headlist">
+                
+                <li id="active" > <a href="index.html"> <h5>Home</h5> </a> </li>    
+                
+                <li id="case" > <a href="case_system.html"> <h2>Case System</h2> </a> </li>
+                
+                <li id="products"> <a href="products.html"> <h2>Products</h2> </a>  
+                    
+                   <!-- <ul>
+                       
+                        <li> <a href="case_system.html"> <h6>case system</h6> </a> </li>
+                        
+                        <li> <a href="flavors.html"> <h6>flavors</h6> </a> </li>
+                    </ul>-->
+                </li> 
+                
+                <li id="ing"> <a href="ingredients.html"> <h2>Ingredients</h2> </a> </li>
+             
+                <li id="contact"> <a href="contact_us.html"> <h2>Contact us</h2> </a> </li>  
+                
+                
+                </ul>
+            </div>
+    </div>
+    
+  
+    
+    <!--images-->
+      <div class="flexcontainer">
+      
+       <div class="picgroup">
+          <div class="pic1">
+              <img src="boy-drinking-juice-stock-image.optimized.JPG" alt="Our Goal" width="320" height="220">
+                 <h3>
+            OUR GOAL:
+                </h3>  
+            
+                
+          <h4>
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+                    diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
+                    erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
+                    tation ullamcorper suscipit lobortis nisl ut 
+                </h4>
+                </div>
+                
+      
+              
+       <div class="pic2">
+              <img src="website-juice-stock-image-optimized.jpg" alt="Case System" width="320" height="220">
+          <h3>
+        CASE SYSTEM:        
+            </h3>
+             <h4>
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+                    diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
+                    erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
+                    tation ullamcorper suscipit lobortis nisl ut
+            </h4>
+            </div>
+          
+           <div class="pic3">
+            <img src="delivery-image-optimized.jpg" alt="Free Nationwide Shipping" width="320" height="220">
+           <h3>
+                FREE NATIONWIDE
+                SHIPPING
+            </h3>
+            </div> 
+          
+       </div>
+        </div>
+            
+    <!--footer-->
+
+<div class="footer">
+   
+    Copyright &copy; Penny Juice 2025
+</div>
+
+                        
+                
+
+</body>
+
+</html>
+
+
+
