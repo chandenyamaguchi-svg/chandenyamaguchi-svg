@@ -22,7 +22,7 @@
         <div class="header">
             <div class="logohead">
             
-            <img src="final-logo.png" alt= "logo" width="474px" height="102px" style="margin-top: 15px;">
+            <img src="IMAGES/final-logo.png" alt= "logo" width="474px" height="102px" style="margin-top: 15px;">
                <h2>
                 it makes cents
             </h2>
