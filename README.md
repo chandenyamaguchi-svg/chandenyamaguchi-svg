@@ -67,7 +67,7 @@
       
        <div class="picgroup">
           <div class="pic1">
-              <img src="IMAGES/boy-drinking-juice-stock-image.optimized.JPG" alt="Our Goal" width="320" height="220">
+              <img src="IMAGES/boy-drinking-juice-stock-image.optimized.jpg" alt="Our Goal" width="320" height="220">
                  <h3>
             OUR GOAL:
                 </h3>  
