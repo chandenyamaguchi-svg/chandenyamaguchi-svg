@@ -10,7 +10,7 @@
     <title>Penny Juice - Juice Concentrate, Natural Ingredients, and Childcare Center</title>
     <meta name="Keywords" content="Bettendorf, Iowa, Healthy Lifestyle, Preschool, Juices, Juice">
     <meta name="author" content="Chanden Yamaguchi">
-    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <link rel="stylesheet" type="text/css" href="CSS/mystyle.css">
 </head>
 
 
@@ -28,8 +28,8 @@
             </h2>
             </div>
             <div class ="flexhead">
-            <a href="../HTML/cart.html">
-            <img src="shopping-cart-optimized.png" width="100px" height="90px">
+            <a href="HTML/cart.html">
+            <img src="IMAGES/shopping-cart-optimized.png" width="100px" height="90px">
             </a>
             </div>
             
